@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841170676112",
+    "project_id": "project3-nyibass",
+    "storage_bucket": "project3-nyibass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841170676112:android:effa8a6a0b544a7d97eb15",
+        "android_client_info": {
+          "package_name": "com.example.project3_nyibass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTW8rtQ7hiDxmAMP-Tp9oxOfR60t0XrVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

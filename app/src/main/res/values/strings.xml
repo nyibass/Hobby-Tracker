@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project3_nyibass</string>
+
+    <string-array name="sources_array">
+        <item>Spotify</item>
+        <item>MyAnimeList</item>
+        <item>MyMangaList</item>
+        <item>Backloggd</item>
+    </string-array>
+
+    <string name="spotify_client_id">01e927ae412244de95ead5b3eb57b0b7</string>
+    <string name="spotify_client_secret">11f1a0da29004551806d5d8e0ff9b8c9</string>
+    <string name="myanimelist_client_id">e1470c6a103e4bf7260b91a98f0fd6bb</string>
+    <string name="twitch_client_id">q45bl9ep97ztv1fw9j207sier3r97y</string>
+    <string name="twitch_client_secret">dh0t5mgq0zgkin2oqt60rm5x7lm6s1</string>
+</resources>
